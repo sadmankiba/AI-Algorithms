@@ -1,0 +1,15 @@
+problem file        solution scheme-1       solution scheme-2       solution scheme-3           solution scheme-4       solution scheme-5
+                        MAC + SDF               FC + DomDDeg            FC + Brelaz                 MAC + DomDDeg            MAC + Brelaz
+
+                    # of nodes  # of bt     # of nodes  # of bt     # of nodes  # of bt         # of nodes  # of bt     # of nodes  # of bt
+d-10-01                 31        13            183          78       168          64              11          0           12          0
+
+d-10-06                  30        7           45          0           41          0               29          0           24          0
+
+d-10-07                 23         5            289         133         285        156              23        2            15          0
+
+d-10-08                 45        25            158        64          141         51              22         0          35          20
+
+d-10-09                 201         91           42         2            72        17                  23       2            25          1
+
+d-15-01                19635      9806          71018       35487         83041      42017            69592      34817       22371      11129
